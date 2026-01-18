@@ -1,7 +1,7 @@
-## Привет！ 👋
-Меня зовут Эрнест, я QA Engineer
+## Hello！ 👋
+My name is Ernest, 24 years old. I'm younglish and ambition QA Engineer's. Right now i'm on start line to build my IT-career, my finish target — strong, stability and longest job in IT.
 
-## 📊 Статистика
+## 📊 Stats
 
 ![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=Ernest081201)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=Ernest081201)
