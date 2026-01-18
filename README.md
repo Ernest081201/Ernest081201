@@ -1,5 +1,5 @@
 ## Hello！ 👋
-My name is Ernest, 24 years old. I'm younglish and ambition QA Engineer's. Right now i'm on start line to build my IT-career, my finish target — strong, stability and longest job in IT.
+My name is Ernest, 24 years old. I'm younglish and ambition QA Engineer's. Right now i'm on start line to build my dream — strong, stability and longest job in IT.
 
 ## 📊 Stats
 
