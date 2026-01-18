@@ -83,7 +83,7 @@ My name is Ernest, 24 years old. I'm younglish and ambition QA Engineer's. Right
 <br>
 
 ## 🎒 Образование
-[<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/diplom.png)
+[<img src="/certificate.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/Ernest081201/Ernest081201/refs/heads/main/Certificate.png)
 [<img src="/recommendation.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/recommendation.png)
 
 <br>
